@@ -234,6 +234,7 @@ These extensions are intentionally kept outside the current implementation scope
 * Alok Srivastava
 * Kritika Arora
 * Utkarsh Srivastava
+* Muskan patel
 
 **BSERC Internship — Defence and Perimeter Security**
 
